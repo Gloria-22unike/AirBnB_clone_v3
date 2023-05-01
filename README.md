@@ -159,4 +159,4 @@ Jennifer Huang - [Github](https://github.com/ujuhope) / [Twitter](https://twitte
 
 Second part of Airbnb: Joann Vuong
 ## License
-Public Domain. No copy write protection. 
+https://github.com/ujuhope/AirBnB_clone_v3.gitPublic Domain. No copy write protection. 
